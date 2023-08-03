@@ -16,3 +16,5 @@ regtest-ref
 /build
 /dist
 *.egg-info/
+.direnv/
+result*/
